@@ -1,5 +1,9 @@
 # PILAR
 
+## Environemnt Setup
+
+Install [poetry](https://python-poetry.org/) and install dependencies using `poetry install`
+
 ## Project Data
 
 ### Data for Section 3.1
