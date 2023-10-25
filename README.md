@@ -1,8 +1,10 @@
 # PILAR
 
-## Environemnt Setup
+## Environment Setup
 
 Install [poetry](https://python-poetry.org/) and install dependencies using `poetry install`
+
+In order to run the template miner, run `poetry run python SourceCode/main.py` (This currently doesn't work due to missing data)
 
 ## Project Data
 

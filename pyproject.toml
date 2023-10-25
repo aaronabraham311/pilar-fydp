@@ -2,7 +2,7 @@
 name = "pilar-fydp"
 version = "0.1.0"
 description = ""
-authors = ["Kevin Zhang <k299zhan@uwaterloo.ca>"]
+authors = ["Aaron Abraham <aaron.abraham@uwaterloo.ca>", "Yash Dani <yash.dani@uwaterloo.ca>", "Kevin Zhang <k299zhan@uwaterloo.ca>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
