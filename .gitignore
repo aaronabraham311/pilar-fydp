@@ -1,0 +1,17 @@
+# Ignore Python build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Ignore logs
+*.log
+
+# Ignore data files
+*.csv
+*.json
+*.xml
+
+# Ignore virtual environment
+venv/
