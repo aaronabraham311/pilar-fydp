@@ -13,6 +13,8 @@ We have installed Ruff in this project to perform linting and formatting accordi
 1. `poetry run ruff check --fix .`
 2. `poetry run ruff format .`
 
+To run automatically on commit, simply run `poetry run pre-commit install`.
+
 ## Project Data
 
 ### Data for Section 3.1
