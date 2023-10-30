@@ -1,9 +1,3 @@
-import numpy as np
-from matplotlib import pyplot as plt
-import seaborn as sns
-import pandas as pd
-from scipy.stats import gaussian_kde
-
 def DictEvaluate(objectdict):
     valuedict = dict()
     for v in objectdict.values():
@@ -21,6 +15,7 @@ def DictEvaluate(objectdict):
     print(values)
     print(appearence)
 
+
 def DictPrint(objectdict):
     values = []
     for v in objectdict.keys():
@@ -35,9 +30,9 @@ def DictPrint(objectdict):
     print(entropy)
     print(appearence)
 
+
 def DictDensity(objectdict, file):
-    output = open(file, 'w')
-    values = []
+    output = open(file, "w")
     for v in objectdict.values():
         output.write(str(v))
-        output.write(',')
+        output.write(",")

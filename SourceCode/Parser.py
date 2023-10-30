@@ -1,6 +1,6 @@
-import copy
 import hashlib
 import re
+
 
 class Parser:
     # def __init__(self, tokenslist, singledict, doubledict, tridict, fourdict, threshold):
@@ -26,27 +26,27 @@ class Parser:
         if index == 0:
             f = 1
         elif index == 1:
-            singlegram = tokens[index-1]
-            doublegram = tokens[index-1] + '^' + tokens[index]
+            singlegram = tokens[index - 1]
+            doublegram = tokens[index - 1] + "^" + tokens[index]
 
             if (doublegram in self.doubledict) & (singlegram in self.singledict):
-                f = (self.doubledict[doublegram]/self.singledict[singlegram])
+                f = self.doubledict[doublegram] / self.singledict[singlegram]
             else:
                 f = 0
 
-            #for automated entropy
+            # for automated entropy
             f_str = str(f)
             if f_str in self.entropydict:
                 self.entropydict[f_str] = self.entropydict[f_str] + 1
             else:
                 self.entropydict[f_str] = 1
         else:
-            if (index-2) in dynamic_index:
-                singlegram = tokens[index-1]
-                doublegram = tokens[index-1] + '^' + tokens[index]
+            if (index - 2) in dynamic_index:
+                singlegram = tokens[index - 1]
+                doublegram = tokens[index - 1] + "^" + tokens[index]
 
                 if (doublegram in self.doubledict) & (singlegram in self.singledict):
-                    f = (self.doubledict[doublegram]/self.singledict[singlegram])
+                    f = self.doubledict[doublegram] / self.singledict[singlegram]
                 else:
                     f = 0
 
@@ -57,11 +57,11 @@ class Parser:
                 else:
                     self.entropydict[f_str] = 1
             else:
-                doublegram = tokens[index-2] + '^' + tokens[index-1]
-                trigram = doublegram + '^' +tokens[index]
+                doublegram = tokens[index - 2] + "^" + tokens[index - 1]
+                trigram = doublegram + "^" + tokens[index]
 
                 if (trigram in self.tridict) & (doublegram in self.doubledict):
-                    f = (self.tridict[trigram] / self.doubledict[doublegram])
+                    f = self.tridict[trigram] / self.doubledict[doublegram]
                 else:
                     f = 0
 
@@ -112,7 +112,7 @@ class Parser:
                 index = index + 1
         return dynamic_index
 
-    #for automated threshold
+    # for automated threshold
     # def AutoIsDynamic(self, tokens, dynamic_index, index, threshold):
     #     pass
     # def AutoGramChecker(self, tokens, threshold):
@@ -125,13 +125,13 @@ class Parser:
     #             pass
 
     def TemplateGenerator(self, tokens, dynamic_index):
-        template = ''
+        template = ""
         index = 0
         for token in tokens:
             if index in dynamic_index:
-                template = template + '<*>' + ' '
+                template = template + "<*>" + " "
             else:
-                template = template + token + ' '
+                template = template + token + " "
             index = index + 1
         return template
 
@@ -140,25 +140,25 @@ class Parser:
         eventFile = open("Output/event" + str(index) + ".txt", "w")
         templateFile = open("Output/template" + str(index) + ".csv", "w")
 
-        eventFile.write('EventId,EventTemplate')
-        eventFile.write('\n')
-        templateFile.write('EventTemplate,Occurrences')
-        templateFile.write('\n')
+        eventFile.write("EventId,EventTemplate")
+        eventFile.write("\n")
+        templateFile.write("EventTemplate,Occurrences")
+        templateFile.write("\n")
 
         for tokens in self.tokenslist:
             dynamic_index = self.GramChecker(tokens)
             template = self.TemplateGenerator(tokens, dynamic_index)
 
-            template = re.sub(',', '', template)
-            template = re.sub('\'', '', template)
-            template = re.sub('\"', '', template)
+            template = re.sub(",", "", template)
+            template = re.sub("'", "", template)
+            template = re.sub('"', "", template)
 
             m = hashlib.md5()
-            m.update(template.encode('utf-8'))
+            m.update(template.encode("utf-8"))
             id = str(int(m.hexdigest(), 16))[0:4]
 
-            eventFile.write('e' + id + ',' + template)
-            eventFile.write('\n')
+            eventFile.write("e" + id + "," + template)
+            eventFile.write("\n")
 
             if template in template_dict:
                 template_dict[template] = template_dict[template] + 1
@@ -166,8 +166,8 @@ class Parser:
                 template_dict[template] = 1
 
         for tmp in template_dict.keys():
-            templateFile.write(tmp + ',' + str(template_dict[tmp]))
-            templateFile.write('\n')
+            templateFile.write(tmp + "," + str(template_dict[tmp]))
+            templateFile.write("\n")
 
         return self.entropydict
 
@@ -178,9 +178,9 @@ class Parser:
         index = 0
         for token in tokens:
             if index in dynamic_index:
-                dValue = dValue+1
+                dValue = dValue + 1
             else:
-                sValue = sValue+1
+                sValue = sValue + 1
             index = index + 1
         return dValue, sValue
 

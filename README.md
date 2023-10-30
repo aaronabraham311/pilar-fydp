@@ -6,6 +6,15 @@ Install [poetry](https://python-poetry.org/) and install dependencies using `poe
 
 In order to run the template miner, run `poetry run python SourceCode/main.py` (This currently doesn't work due to missing data)
 
+## Linting and Formatting
+
+We have installed Ruff in this project to perform linting and formatting according to established Python standards. To run manually, run the following commands:
+
+1. `poetry run ruff check --fix .`
+2. `poetry run ruff format .`
+
+To run automatically on commit, simply run `poetry run pre-commit install`.
+
 ## Project Data
 
 ### Data for Section 3.1
