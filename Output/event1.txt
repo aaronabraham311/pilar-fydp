@@ -1,0 +1,2001 @@
+EventId,EventTemplate
+e2468,data TLB error interrupt 
+e1776,debug wait enable.................<*> 
+e2829,iar <*> dear <*> 
+e1725,<*> <*> alignment exceptions 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e1607,instruction cache parity error corrected 
+e1923,data <*> interrupt <*> by dcbf.........<*> 
+e4377,generating <*> 
+e2521,ciod: generated <*> core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm 
+e9096,exception syndrome register: 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2285,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> (<*>) iar <*> dear <*> (<*>) iar <*> dear <*> (<*>) iar <*> dear <*> (<*>) iar <*> dear <*> (<*>) iar <*> dear <*> (<*>) iar <*> dear <*> (<*>) iar <*> dear <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e1348,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ea8 dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2829,iar <*> dear <*> 
+e8600,NFS Mount failed on bglio91 slept <*> seconds retrying (<*>) 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e3322,ciod: LOGIN <*> failed: No such file or directory 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2782,data <*> 0x<*> 
+e1682,Ido chip status changed: FF:F2:9F:<*>:DC:<*>:<*>:0D:<*>:E9:<*>:7E ip=<*> v=<*> t=<*> status=M Tue Aug <*> <*>:<*>:<*> PDT <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e5458,machine state register: 0x<*> 
+e5455,<*> <*> point alignment exceptions 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e6767,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001f<*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e4377,generating <*> 
+e3057,<*> <*> error(s) detected and corrected on rank <*> symbol <*> over <*> seconds 
+e4377,generating <*> 
+e4377,generating <*> 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e4377,generating <*> 
+e1886,Machine State Register: 0x0002f<*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e2829,iar <*> dear <*> 
+e2468,data TLB error interrupt 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e7171,Ido chip status changed: FF:F2:9F:<*>:EB:<*>:<*>:0D:<*>:E9:<*>:D8 ip=<*> v=<*> t=<*> status=M Thu Aug <*> <*>:<*>:<*> PDT <*> 
+e2829,iar <*> dear <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e1157,core configuration register: 0x<*> 
+e2144,data storage interrupt 
+e4377,generating <*> 
+e2698,critical input <*> (unit=0x0b bit=0x17): warning for tree C1 wire suppressing further interrupts of same type 
+e5882,instruction address: 0x00004ed<*> 
+e2829,iar <*> dear <*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1232,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e1607,instruction cache parity error corrected 
+e1874,ciod: generated <*> core files for program <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2743,ciod: LOGIN chdir(pwd) failed: No such file or directory 
+e2468,data TLB error interrupt 
+e2144,data storage interrupt 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e1084,icache prefetch threshold................<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2020,ciod: Error reading message prefix on CioStream socket to <*> Link has been severed 
+e4377,generating <*> 
+e4377,generating <*> 
+e3257,Node card is not fully functional 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e8572,program interrupt: illegal instruction......<*> 
+e1725,<*> <*> alignment exceptions 
+e1725,<*> <*> alignment exceptions 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e6539,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*>.<*> volt rail is OK. The <*>.<*> volt rail is OK. 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2144,data storage interrupt 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e3348,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4) 
+e4377,generating <*> 
+e5458,machine state register: 0x<*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e4377,generating <*> 
+e2189,disable store gathering..................<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2144,data storage interrupt 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e3023,Error <*> packet on tree network expecting type <*> instead of type <*> (softheader=00ce22e8 e6200003 <*> <*>) PSR0=00001f01 PSR1=<*> PRXF=<*> PIXF=<*> 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e3348,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4) 
+e1607,instruction cache parity error corrected 
+e1645,ciod: Error loading <*> program <*> too big <*> > <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e1607,instruction cache parity error corrected 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e4377,generating <*> 
+e5882,instruction address: 0x00004ed<*> 
+e4377,generating <*> 
+e2782,data <*> 0x<*> 
+e1725,<*> <*> alignment exceptions 
+e2638,store operation.............................<*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e2144,data storage interrupt 
+e4377,generating <*> 
+e7671,program interrupt: privileged instruction...<*> 
+e6767,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001f<*> 
+e4377,generating <*> 
+e9096,exception syndrome register: 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e2052,data <*> search parity error detected. attempting to correct 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e7671,program interrupt: privileged instruction...<*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e7671,program interrupt: privileged instruction...<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1502,ciod: Error reading message prefix on CioStream socket to <*> Connection timed out 
+e4377,generating <*> 
+e3322,ciod: LOGIN <*> failed: No such file or directory 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2468,data TLB error interrupt 
+e6767,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001f<*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e7416,ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2829,iar <*> dear <*> 
+e2052,data <*> search parity error detected. attempting to correct 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e3091,ciod: generated <*> core files for program /home/germann2/BGL-demo/SPaSM_mpi 
+e2595,program interrupt: fp cr field .............<*> 
+e1348,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ea8 dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> 
+e2052,data <*> search parity error detected. attempting to correct 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e5455,<*> <*> point alignment exceptions 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e3185,data <*> space................<*> 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e3057,<*> <*> error(s) detected and corrected on rank <*> symbol <*> over <*> seconds 
+e1607,instruction cache parity error corrected 
+e1621,machine check: i-fetch......................<*> 
+e2468,data TLB error interrupt 
+e6130,total of <*> ddr error(s) detected and corrected 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2144,data storage interrupt 
+e2435,fraction rounded.........................<*> 
+e5882,instruction address: 0x00004ed<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e5882,instruction address: 0x00004ed<*> 
+e2457,special purpose registers: 
+e4540,rts: kernel terminated for reason <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e1748,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001b<*> 
+e2648,Node card VPD check: U11 node in processor card slot J10 do not match. VPD ecid 07570DD8002FFFFF09031B7090E2 found 04D480D8482FFFFF0A071BA052DE 
+e2468,data TLB error interrupt 
+e5455,<*> <*> point alignment exceptions 
+e1923,Lustre mount FAILED : <*> : point /p/gb<*> 
+e3121,Ido chip status changed: FF:F2:9F:<*>:7E:6E:<*>:0D:<*>:EA:<*>:<*> ip=<*> v=<*> t=<*> status=M Thu Aug <*> <*>:<*>:<*> PDT <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2829,iar <*> dear <*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e2595,program interrupt: fp cr field .............<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e5882,instruction address: 0x00004ed<*> 
+e5458,machine state register: 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e1127,rts panic! - stopping execution 
+e4377,generating <*> 
+e3057,<*> <*> error(s) detected and corrected on rank <*> symbol <*> over <*> seconds 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2144,data storage interrupt 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e2829,iar <*> dear <*> 
+e4703,ciod: Error <*> node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required 
+e4377,generating <*> 
+e4377,generating <*> 
+e7050,Node card status: ALERT <*> ALERT <*> ALERT <*> ALERT <*> is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is <*> <*> Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. <*> error <*> is clear. MPGOOD is OK. <*> error <*> is clear. The <*>.<*> volt rail is OK. The <*>.<*> volt rail is OK. 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2144,data storage interrupt 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1748,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001b<*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e8572,program interrupt: illegal instruction......<*> 
+e2144,data storage interrupt 
+e3348,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4) 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e1949,<*> <*> receiver x+ input pipe error(s) (dcr 0x02ec) detected and corrected 
+e2836,ciod: <*> or <*> fields on line <*> of node map file /home/auselton/bgl/64mps.sequential.mapfile 
+e4377,generating <*> 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e4377,generating <*> 
+e4377,generating <*> 
+e2846,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e2829,iar <*> dear <*> 
+e6130,total of <*> ddr error(s) detected and corrected 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e4377,generating <*> 
+e3091,ciod: generated <*> core files for program /home/germann2/BGL-demo/SPaSM_mpi 
+e4377,generating <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e5455,<*> <*> point alignment exceptions 
+e2829,iar <*> dear <*> 
+e3322,ciod: LOGIN <*> failed: No such file or directory 
+e2638,store operation.............................<*> 
+e3091,ciod: generated <*> core files for program /home/germann2/BGL-demo/SPaSM_mpi 
+e2829,iar <*> dear <*> 
+e2105,ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///<*>.<*>.<*>-<*>.<*>.<*>) failed: No such file or directory 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e5882,instruction address: 0x00004ed<*> 
+e1923,Lustre mount FAILED : <*> : point /p/gb<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e7671,program interrupt: privileged instruction...<*> 
+e2307,problem state (<*>=sup<*>=usr).......<*> 
+e4377,generating <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e1725,<*> <*> alignment exceptions 
+e1348,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ea8 dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> 
+e4377,generating <*> 
+e3257,Node card is not fully functional 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1318,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z- 
+e2829,iar <*> dear <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e2228,program interrupt: imprecise exception......<*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e5458,machine state register: 0x<*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2468,data TLB error interrupt 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e5455,<*> <*> point alignment exceptions 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e4377,generating <*> 
+e4377,generating <*> 
+e1157,core configuration register: 0x<*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e1874,ciod: generated <*> core files for program <*> 
+e1607,instruction cache parity error corrected 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e6767,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001f<*> 
+e1502,ciod: Error reading message prefix on CioStream socket to <*> Connection timed out 
+e5455,<*> <*> point alignment exceptions 
+e5882,instruction address: 0x00004ed<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e1607,instruction cache parity error corrected 
+e2468,data TLB error interrupt 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2105,ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///<*>.<*>.<*>-<*>.<*>.<*>) failed: No such file or directory 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e8572,program interrupt: illegal instruction......<*> 
+e1874,ciod: generated <*> core files for program <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e4377,generating <*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e4377,generating <*> 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e3185,data <*> space................<*> 
+e1607,instruction cache parity error corrected 
+e2908,critical input <*> (unit=0x0b bit=0x0b): warning for torus z- wire 
+e4377,generating <*> 
+e2240,data <*> interrupt <*> by icbi.........<*> 
+e1028,<*> <*> EDRAM error(s) (dcr 0x0157) detected and corrected 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e1725,<*> <*> alignment exceptions 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4050,ciod: <*> to <*> message prefix on control stream (CioStream socket to <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e6130,total of <*> ddr error(s) detected and corrected 
+e4377,generating <*> 
+e4377,generating <*> 
+e1748,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001b<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4050,ciod: <*> to <*> message prefix on control stream (CioStream socket to <*> 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e4377,generating <*> 
+e1491,Can not get assembly information for node card 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2829,iar <*> dear <*> 
+e1282,<*> <*> receiver <*> in re-synch state event(s) (dcr 0x019a) detected 
+e2468,data TLB error interrupt 
+e1874,ciod: generated <*> core files for program <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2240,data <*> interrupt <*> by icbi.........<*> 
+e5882,instruction address: 0x00004ed<*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e6539,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*>.<*> volt rail is OK. The <*>.<*> volt rail is OK. 
+e4377,generating <*> 
+e1874,ciod: generated <*> core files for program <*> 
+e2521,ciod: generated <*> core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e1874,ciod: generated <*> core files for program <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e3057,<*> <*> error(s) detected and corrected on rank <*> symbol <*> over <*> seconds 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e5882,instruction address: 0x00004ed<*> 
+e1348,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ea8 dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e1425,ciod: <*> Detected the debugger died. 
+e1725,<*> <*> alignment exceptions 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e4377,generating <*> 
+e7088,ciod: Error loading <*> invalid or missing program image Exec format error 
+e4377,generating <*> 
+e2144,data storage interrupt 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e5455,<*> <*> point alignment exceptions 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2782,data <*> 0x<*> 
+e4540,rts: kernel terminated for reason <*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e1725,<*> <*> alignment exceptions 
+e2829,iar <*> dear <*> 
+e2144,data storage interrupt 
+e1725,<*> <*> alignment exceptions 
+e1282,<*> <*> receiver <*> in re-synch state event(s) (dcr 0x019a) detected 
+e4377,generating <*> 
+e2189,disable store gathering..................<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e3091,ciod: generated <*> core files for program /home/germann2/BGL-demo/SPaSM_mpi 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e3259,<*> <*> sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over <*> seconds 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2830,shutdown complete 
+e2829,iar <*> dear <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1320,byte ordering exception.....................<*> 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e1347,ciod: <*> packet from node <*>.<*> (R62-M1-Nf-C:J03-U11) message code <*> is not <*> or <*> (softheader=003b005b <*> <*> <*>) 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e6476,Node card VPD check: U11 node in processor card slot J18 do not match. VPD ecid 04CC81389C2FFFFF03071B7048DF found 04D780871F2FFFFF08031BD046E<*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e5183,Error <*> packet on tree network expecting type <*> instead of type <*> (softheader=00ce22e8 e6200003 <*> <*>) PSR0=20021f01 PSR1=<*> PRXF=<*> PIXF=<*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e5455,<*> <*> point alignment exceptions 
+e7088,ciod: Error loading <*> invalid or missing program image Exec format error 
+e4377,generating <*> 
+e7416,ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e1232,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory 
+e2144,data storage interrupt 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e4377,generating <*> 
+e2499,guaranteed instruction cache <*> touch.<*> 
+e4349,program <*> 
+e5455,<*> <*> point alignment exceptions 
+e2468,data TLB error interrupt 
+e1320,byte ordering exception.....................<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e1607,instruction cache parity error corrected 
+e5455,<*> <*> point alignment exceptions 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e2846,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed 
+e4377,generating <*> 
+e2940,instruction address: <*> 
+e1621,machine check: i-fetch......................<*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2846,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed 
+e2468,data TLB error interrupt 
+e5882,instruction address: 0x00004ed<*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e9096,exception syndrome register: 0x<*> 
+e2020,ciod: Error reading message prefix on CioStream socket to <*> Link has been severed 
+e2829,iar <*> dear <*> 
+e1491,Can not get assembly information for node card 
+e2240,data <*> interrupt <*> by icbi.........<*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2001,NFS Mount failed on bglio716 slept <*> seconds retrying (<*>) 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e1168,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd<*> 
+e2763,PrepareForService shutting down Node card(mLctn(R10-M1-N2) mCardSernum(203231503833343000000000594c31304b34323934303257) mLp(FF:F2:9F:<*>:E0:DA:<*>:0D:<*>:E9:1F:<*>) mIp(<*>) mType(<*>)) as part of Service Action <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1748,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001b<*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2782,data <*> 0x<*> 
+e2829,iar <*> dear <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e1768,program interrupt: <*> operation..<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2714,total of <*> ddr error(s) detected and corrected over <*> seconds 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e1607,instruction cache parity error corrected 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2468,data TLB error interrupt 
+e1862,ciod: Error <*> node map from file /home/pakin1/sweep3d-<*>.2b/results/random1-8x32x32x2.map: Permission denied 
+e5455,<*> <*> point alignment exceptions 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e2846,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed 
+e4377,generating <*> 
+e1923,Lustre mount FAILED : <*> : point /p/gb<*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2144,data storage interrupt 
+e5455,<*> <*> point alignment exceptions 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e5455,<*> <*> point alignment exceptions 
+e2829,iar <*> dear <*> 
+e3322,ciod: LOGIN <*> failed: No such file or directory 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e1621,machine check: i-fetch......................<*> 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e1725,<*> <*> alignment exceptions 
+e1607,instruction cache parity error corrected 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2672,auxiliary processor.........................<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e4377,generating <*> 
+e2846,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e6767,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001f<*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e1348,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ea8 dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2020,ciod: Error reading message prefix on CioStream socket to <*> Link has been severed 
+e5882,instruction address: 0x00004ed<*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e9728,ciod: LOGIN chdir(/home/spelce1/UMT2K/umt2k/ckpt_umt2k_src/TEST/NEW_TEST) failed: No such file or directory 
+e2468,data TLB error interrupt 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2144,data storage interrupt 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e2595,program interrupt: fp cr field .............<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2144,data storage interrupt 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e5455,<*> <*> point alignment exceptions 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e1011,fpr29=0xffffffff ffffffff ffffffff ffffffff 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2717,floating point <*> enabled.....<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e3185,data <*> space................<*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e1874,ciod: generated <*> core files for program <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2468,data TLB error interrupt 
+e3079,Ido chip status changed: FF:F2:9F:<*>:E2:<*>:<*>:0D:<*>:E9:1D:DC ip=<*> v=<*> t=<*> status=M Fri Jul <*> <*>:<*>:<*> PDT <*> 
+e4377,generating <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e3240,critical input <*> (unit=0x0b bit=0x06): warning for torus y+ wire 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e1923,data <*> interrupt <*> by dcbf.........<*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e4377,generating <*> 
+e2052,data <*> search parity error detected. attempting to correct 
+e2829,iar <*> dear <*> 
+e9506,Node card VPD check: U11 node in processor card slot J17 do not match. VPD ecid 04D97DB7937BFFFF05071B7054DA found 04D081A3892FFFFF0D0B1C505AF<*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e1874,ciod: generated <*> core files for program <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e8572,program interrupt: illegal instruction......<*> 
+e2829,iar <*> dear <*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1157,core configuration register: 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e5455,<*> <*> point alignment exceptions 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e3057,<*> <*> error(s) detected and corrected on rank <*> symbol <*> over <*> seconds 
+e4377,generating <*> 
+e4377,generating <*> 
+e2052,data <*> search parity error detected. attempting to correct 
+e4377,generating <*> 
+e4377,generating <*> 
+e3348,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4) 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e6130,total of <*> ddr error(s) detected and corrected 
+e1725,<*> <*> alignment exceptions 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e9728,ciod: LOGIN chdir(/home/spelce1/UMT2K/umt2k/ckpt_umt2k_src/TEST/NEW_TEST) failed: No such file or directory 
+e4377,generating <*> 
+e1923,data <*> interrupt <*> by dcbf.........<*> 
+e3322,ciod: LOGIN <*> failed: No such file or directory 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e1491,Can not get assembly information for node card 
+e4377,generating <*> 
+e4377,generating <*> 
+e3091,ciod: generated <*> core files for program /home/germann2/BGL-demo/SPaSM_mpi 
+e2254,ciod: Error <*> node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2782,data <*> 0x<*> 
+e2144,data storage interrupt 
+e1725,<*> <*> alignment exceptions 
+e2831,critical input <*> (unit=0x0b bit=0x0a): warning for torus z+ wire suppressing further interrupts of same type 
+e9847,ciod: <*> signal <*> code=<*> errno=<*> <*> 
+e4377,generating <*> 
+e6767,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001f<*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e3257,Node card is not fully functional 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e3057,<*> <*> error(s) detected and corrected on rank <*> symbol <*> over <*> seconds 
+e2717,floating point <*> enabled.....<*> 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e1607,instruction cache parity error corrected 
+e5455,<*> <*> point alignment exceptions 
+e2641,Error <*> packet on tree network expecting type <*> instead of type <*> <*> 8aff0003 <*> <*>) PSR0=00001f01 PSR1=<*> PRXF=<*> PIXF=<*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2829,iar <*> dear <*> 
+e2782,data <*> 0x<*> 
+e1923,Lustre mount FAILED : <*> : point /p/gb<*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e1725,<*> <*> alignment exceptions 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e4377,generating <*> 
+e1669,minus normalized number..................<*> 
+e1725,<*> <*> alignment exceptions 
+e1466,Node card VPD check: U01 node in processor card slot J15 do not match. VPD ecid 04DE7DB80D7BFFFF04051B70D8D9 found 04DE7DF2D37BFFFF09081B6088D<*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e4377,generating <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e1475,Node card VPD check: U01 node in processor card slot J08 do not match. VPD ecid 075F04E8A27BFFFF07021C3096ED found 04D78137922FFFFF040E1C3052ED 
+e4377,generating <*> 
+e7636,force load/store alignment...............<*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2468,data TLB error interrupt 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2717,floating point <*> enabled.....<*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e1607,instruction cache parity error corrected 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e7416,ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e8572,program interrupt: illegal instruction......<*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e3322,ciod: LOGIN <*> failed: No such file or directory 
+e6539,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*>.<*> volt rail is OK. The <*>.<*> volt rail is OK. 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2829,iar <*> dear <*> 
+e7416,ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer 
+e1638,program interrupt: <*> instruction.........<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e1348,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ea8 dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> 
+e4377,generating <*> 
+e2307,problem state (<*>=sup<*>=usr).......<*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1284,machine check enable..............<*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e2228,program interrupt: imprecise exception......<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2799,Node card VPD check: U11 node in processor card slot J04 do not match. VPD ecid 04D58088CB2FFFFF08031C104CE9 found 04CA80D8012FFFFF08061A8094CB 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e3259,<*> <*> sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over <*> seconds 
+e1923,Lustre mount FAILED : <*> : point /p/gb<*> 
+e1621,machine check: i-fetch......................<*> 
+e1725,<*> <*> alignment exceptions 
+e2020,ciod: Error reading message prefix on CioStream socket to <*> Link has been severed 
+e6130,total of <*> ddr error(s) detected and corrected 
+e1874,ciod: generated <*> core files for program <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e3185,data <*> space................<*> 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e1348,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ea8 dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e1607,instruction cache parity error corrected 
+e1869,rts internal error 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e3348,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4) 
+e4377,generating <*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e4377,generating <*> 
+e2228,program interrupt: imprecise exception......<*> 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e5844,NodeCard is not fully functional 
+e4377,generating <*> 
+e4377,generating <*> 
+e1370,<*> <*> receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e5455,<*> <*> point alignment exceptions 
+e5455,<*> <*> point alignment exceptions 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e1773,floating <*> ex mode <*> enable......<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e2468,data TLB error interrupt 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e9096,exception syndrome register: 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e3091,ciod: generated <*> core files for program /home/germann2/BGL-demo/SPaSM_mpi 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e1679,<*> <*> receiver <*> in re-synch state event(s) (dcr 0x0185) detected over <*> seconds 
+e2468,data TLB error interrupt 
+e2020,ciod: Error reading message prefix on CioStream socket to <*> Link has been severed 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e9847,ciod: <*> signal <*> code=<*> errno=<*> <*> 
+e1491,Can not get assembly information for node card 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e2144,data storage interrupt 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e1874,ciod: generated <*> core files for program <*> 
+e1275,Node card VPD check: U01 node in processor card slot J14 do not match. VPD ecid 074C04C10F7BFFFF08051AE08ED2 found 04C180A5D12FFFFF05081BD088E<*> 
+e5882,instruction address: 0x00004ed<*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e6130,total of <*> ddr error(s) detected and corrected 
+e5455,<*> <*> point alignment exceptions 
+e5882,instruction address: 0x00004ed<*> 
+e4377,generating <*> 
+e4349,program <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2219,ciod: <*> coordinate <*> exceeds physical dimension <*> at line <*> of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map 
+e2829,iar <*> dear <*> 
+e3093,ciod: LOGIN <*> failed: <*> error 
+e1874,ciod: generated <*> core files for program <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2672,auxiliary processor.........................<*> 
+e2829,iar <*> dear <*> 
+e2846,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed 
+e2829,iar <*> dear <*> 
+e2521,ciod: generated <*> core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm 
+e1157,core configuration register: 0x<*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e3601,icache prefetch depth....................<*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e4377,generating <*> 
+e4050,ciod: <*> to <*> message prefix on control stream (CioStream socket to <*> 
+e4377,generating <*> 
+e1874,ciod: generated <*> core files for program <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e1725,<*> <*> alignment exceptions 
+e3194,Lustre mount FAILED : <*> : <*> : <*> 
+e7671,program interrupt: privileged instruction...<*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2144,data storage interrupt 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e6767,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001f<*> 
+e4377,generating <*> 
+e1773,floating <*> ex mode <*> enable......<*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e8572,program interrupt: illegal instruction......<*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e1725,<*> <*> alignment exceptions 
+e1725,<*> <*> alignment exceptions 
+e1725,<*> <*> alignment exceptions 
+e1373,guaranteed data cache block touch........<*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2144,data storage interrupt 
+e1923,data <*> interrupt <*> by dcbf.........<*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2829,iar <*> dear <*> 
+e1725,<*> <*> alignment exceptions 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e1725,<*> <*> alignment exceptions 
+e2829,iar <*> dear <*> 
+e2052,data <*> search parity error detected. attempting to correct 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e2468,data TLB error interrupt 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e5882,instruction address: 0x00004ed<*> 
+e4377,generating <*> 
+e2144,data storage interrupt 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e8572,program interrupt: illegal instruction......<*> 
+e2829,iar <*> dear <*> 
+e2105,ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///<*>.<*>.<*>-<*>.<*>.<*>) failed: No such file or directory 
+e4377,generating <*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e2829,iar <*> dear <*> 
+e1607,instruction cache parity error corrected 
+e2714,total of <*> ddr error(s) detected and corrected over <*> seconds 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2672,auxiliary processor.........................<*> 
+e9096,exception syndrome register: 0x<*> 
+e4377,generating <*> 
+e2020,ciod: Error reading message prefix on CioStream socket to <*> Link has been severed 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e1491,Can not get assembly information for node card 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2110,instruction <*> space.........<*> 
+e4377,generating <*> 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2829,iar <*> dear <*> 
+e2991,debug interrupt enable............<*> 
+e2829,iar <*> dear <*> 
+e1607,instruction cache parity error corrected 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e1725,<*> <*> alignment exceptions 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e5455,<*> <*> point alignment exceptions 
+e1725,<*> <*> alignment exceptions 
+e3091,ciod: generated <*> core files for program /home/germann2/BGL-demo/SPaSM_mpi 
+e1607,instruction cache parity error corrected 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1157,core configuration register: 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e5455,<*> <*> point alignment exceptions 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e1923,Lustre mount FAILED : <*> : point /p/gb<*> 
+e5455,<*> <*> point alignment exceptions 
+e1725,<*> <*> alignment exceptions 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1874,ciod: generated <*> core files for program <*> 
+e1268,ciod: <*> <*> <*> treeaddr <*> sent unrecognized message 0xffffffff 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e4349,program <*> 
+e1748,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001b<*> 
+e2782,data <*> 0x<*> 
+e4377,generating <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2189,disable store gathering..................<*> 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2468,data TLB error interrupt 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e1725,<*> <*> alignment exceptions 
+e2829,iar <*> dear <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e3197,critical input <*> enable...<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e5455,<*> <*> point alignment exceptions 
+e1533,Node card VPD check: U11 node in processor card slot J16 do not match. VPD ecid 04DF80A7942FFFFF0C081AE08CD2 found <*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e2672,auxiliary processor.........................<*> 
+e2829,iar <*> dear <*> 
+e1725,<*> <*> alignment exceptions 
+e5455,<*> <*> point alignment exceptions 
+e1607,instruction cache parity error corrected 
+e2829,iar <*> dear <*> 
+e8321,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x<*> 
+e2829,iar <*> dear <*> 
+e1607,instruction cache parity error corrected 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e6539,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*>.<*> volt rail is OK. The <*>.<*> volt rail is OK. 
+e1725,<*> <*> alignment exceptions 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2468,data TLB error interrupt 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2846,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e1607,instruction cache parity error corrected 
+e1923,Lustre mount FAILED : <*> : point /p/gb<*> 
+e1923,data <*> interrupt <*> by dcbf.........<*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e1725,<*> <*> alignment exceptions 
+e2829,iar <*> dear <*> 
+e2228,program interrupt: imprecise exception......<*> 
+e4377,generating <*> 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e4540,rts: kernel terminated for reason <*> 
+e6130,total of <*> ddr error(s) detected and corrected 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e1725,<*> <*> alignment exceptions 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e6130,total of <*> ddr error(s) detected and corrected 
+e2829,iar <*> dear <*> 
+e1725,<*> <*> alignment exceptions 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e3348,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4) 
+e2714,total of <*> ddr error(s) detected and corrected over <*> seconds 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e6130,total of <*> ddr error(s) detected and corrected 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e1794,<*> <*> EDRAM error(s) (dcr 0x0157) detected and corrected over <*> seconds 
+e4551,size of scratchpad portion of L3.........<*> (0M) 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e1607,instruction cache parity error corrected 
+e2468,data TLB error interrupt 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2831,critical input <*> (unit=0x0b bit=0x0a): warning for torus z+ wire suppressing further interrupts of same type 
+e4377,generating <*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2782,data <*> 0x<*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e3257,Node card is not fully functional 
+e4540,rts: kernel terminated for reason <*> 
+e2144,data storage interrupt 
+e5882,instruction address: 0x00004ed<*> 
+e1607,instruction cache parity error corrected 
+e1874,ciod: generated <*> core files for program <*> 
+e6130,total of <*> ddr error(s) detected and corrected 
+e1607,instruction cache parity error corrected 
+e4377,generating <*> 
+e1776,debug wait enable.................<*> 
+e3348,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4) 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2717,floating point <*> enabled.....<*> 
+e1725,<*> <*> alignment exceptions 
+e2144,data storage interrupt 
+e4377,generating <*> 
+e6130,total of <*> ddr error(s) detected and corrected 
+e2829,iar <*> dear <*> 
+e1874,ciod: generated <*> core files for program <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e5455,<*> <*> point alignment exceptions 
+e6539,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*>.<*> volt rail is OK. The <*>.<*> volt rail is OK. 
+e4377,generating <*> 
+e2240,data <*> interrupt <*> by icbi.........<*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e5882,instruction address: 0x00004ed<*> 
+e4377,generating <*> 
+e1874,ciod: generated <*> core files for program <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1425,ciod: <*> Detected the debugger died. 
+e5455,<*> <*> point alignment exceptions 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e8572,program interrupt: illegal instruction......<*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e1725,<*> <*> alignment exceptions 
+e2595,program interrupt: fp cr field .............<*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2743,ciod: LOGIN chdir(pwd) failed: No such file or directory 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e6130,total of <*> ddr error(s) detected and corrected 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e6130,total of <*> ddr error(s) detected and corrected 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2468,data TLB error interrupt 
+e2144,data storage interrupt 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e5882,instruction address: 0x00004ed<*> 
+e9847,ciod: <*> signal <*> code=<*> errno=<*> <*> 
+e2829,iar <*> dear <*> 
+e2144,data storage interrupt 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e1874,ciod: generated <*> core files for program <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2997,Ido chip status changed: FF:F2:9F:<*>:7B:E0:<*>:0D:<*>:EA:<*>:1F ip=<*> v=<*> t=<*> status=M Sat Sep <*> <*>:<*>:<*> PDT <*> 
+e4377,generating <*> 
+e1157,core configuration register: 0x<*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e1491,Can not get assembly information for node card 
+e4377,generating <*> 
+e2020,ciod: Error reading message prefix on CioStream socket to <*> Link has been severed 
+e2144,data storage interrupt 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e4540,rts: kernel terminated for reason <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2020,ciod: Error reading message prefix on CioStream socket to <*> Link has been severed 
+e4377,generating <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2829,iar <*> dear <*> 
+e2144,data storage interrupt 
+e2829,iar <*> dear <*> 
+e2521,ciod: generated <*> core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e1773,floating <*> ex mode <*> enable......<*> 
+e4377,generating <*> 
+e1348,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ea8 dear <*> (<*>) iar 0x00544eb8 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> (<*>) iar 0x00544ee0 dear <*> (<*>) iar 0x00544ef0 dear <*> 
+e1725,<*> <*> alignment exceptions 
+e4307,Node card VPD check: U01 node in processor card slot J05 do not match. VPD ecid 04D37DF2DE7BFFFF0D081AF0DAD2 found 04DD80740E2FFFFF0A0C19D0CEBD 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e3257,Node card is not fully functional 
+e1313,suppressing further interrupts of same type 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2829,iar <*> dear <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2468,data TLB error interrupt 
+e2829,iar <*> dear <*> 
+e1607,instruction cache parity error corrected 
+e3091,ciod: generated <*> core files for program /home/germann2/BGL-demo/SPaSM_mpi 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e1282,<*> <*> receiver <*> in re-synch state event(s) (dcr 0x019a) detected 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e3257,Node card is not fully functional 
+e6767,ciod: <*> signal <*> code=<*> errno=<*> address=0x000001f<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2057,lr:00004ed0 cr:<*> xer:<*> ctr:<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2144,data storage interrupt 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2846,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed 
+e2829,iar <*> dear <*> 
+e2144,data storage interrupt 
+e1773,floating <*> ex mode <*> enable......<*> 
+e1923,Lustre mount FAILED : <*> : point /p/gb<*> 
+e1725,<*> <*> alignment exceptions 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e5943,New ido chip inserted into the database: FF:F2:9F:<*>:1F:<*>:<*>:0D:<*>:EA:E0:8D ip=<*> v=<*> t=<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e4377,generating <*> 
+e1618,Error <*> packet on tree network expecting type <*> instead of type <*> <*> 8bfa0003 <*> <*>) PSR0=20021f01 PSR1=<*> PRXF=<*> PIXF=<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e6408,rts: kernel terminated for reason 1001rts: bad message header: invalid cpu type=<*> cpu=<*> index=<*> total=<*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2144,data storage interrupt 
+e4377,generating <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e2672,auxiliary processor.........................<*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1607,instruction cache parity error corrected 
+e5455,<*> <*> point alignment exceptions 
+e6928,ciod: <*> canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e1313,suppressing further interrupts of same type 
+e5455,<*> <*> point alignment exceptions 
+e7636,force load/store alignment...............<*> 
+e4377,generating <*> 
+e1084,icache prefetch threshold................<*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e5455,<*> <*> point alignment exceptions 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e3185,data <*> space................<*> 
+e4377,generating <*> 
+e5882,instruction address: 0x00004ed<*> 
+e2829,iar <*> dear <*> 
+e1607,instruction cache parity error corrected 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e5455,<*> <*> point alignment exceptions 
+e1743,Error <*> packet on tree network expecting type <*> instead of type <*> <*> <*> <*> <*>) PSR0=00001f01 PSR1=<*> PRXF=<*> PIXF=<*> 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2521,ciod: generated <*> core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm 
+e5455,<*> <*> point alignment exceptions 
+e2468,data TLB error interrupt 
+e1725,<*> <*> alignment exceptions 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e5882,instruction address: 0x00004ed<*> 
+e1607,instruction cache parity error corrected 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e1157,core configuration register: 0x<*> 
+e3057,<*> <*> error(s) detected and corrected on rank <*> symbol <*> over <*> seconds 
+e1923,Lustre mount FAILED : <*> : point /p/gb<*> 
+e2867,CE sym <*> at <*> mask <*> 
+e4377,generating <*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e5455,<*> <*> point alignment exceptions 
+e2829,iar <*> dear <*> 
+e1607,instruction cache parity error corrected 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e1679,<*> <*> receiver <*> in re-synch state event(s) (dcr 0x0185) detected over <*> seconds 
+e4377,generating <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e1284,machine check enable..............<*> 
+e2829,iar <*> dear <*> 
+e1581,<*> <*> receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected 
+e2829,iar <*> dear <*> 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2392,ciod: <*> code <*> is not <*> or <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e9456,<*> <*> errors(s) detected and corrected on rank <*> symbol <*> bit <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2144,data storage interrupt 
+e5455,<*> <*> point alignment exceptions 
+e2829,iar <*> dear <*> 
+e4540,rts: kernel terminated for reason <*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2769,New ido chip inserted into the database: FF:F2:9F:<*>:BF:6C:<*>:0D:<*>:E9:<*>:<*> ip=<*> v=<*> t=<*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e4377,generating <*> 
+e4377,generating <*> 
+e2240,data <*> interrupt <*> by icbi.........<*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4953,New ido chip inserted into the database: FF:F2:9F:<*>:C4:C2:<*>:0D:<*>:E9:3B:3D ip=<*> v=<*> t=<*> 
+e2829,iar <*> dear <*> 
+e2228,program interrupt: imprecise exception......<*> 
+e1725,<*> <*> alignment exceptions 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e1196,program interrupt: fp cr update.............<*> 
+e2436,ciod: <*> or <*> fields on line <*> of node map file /home/auselton/bgl/mapfiles/bgl.128mps.f64.map 
+e4377,generating <*> 
+e4377,generating <*> 
+e1621,machine check: i-fetch......................<*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e2714,total of <*> ddr error(s) detected and corrected over <*> seconds 
+e4377,generating <*> 
+e5882,instruction address: 0x00004ed<*> 
+e4377,generating <*> 
+e2427,rts: bad message header: expecting type <*> instead of type <*> <*> 81aa0003 <*> <*>) PSR0=00001f01 PSR1=<*> PRXF=<*> PIXF=<*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e1725,<*> <*> alignment exceptions 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e2499,guaranteed instruction cache <*> touch.<*> 
+e4377,generating <*> 
+e2742,ciod: Error <*> node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes 
+e1773,floating <*> ex mode <*> enable......<*> 
+e4377,generating <*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e5455,<*> <*> point alignment exceptions 
+e2435,PrepareForService shutting down NodeCard(mLctn(R25-M1-N2) mCardSernum(203231503833343000000000594c31304b34333431303158) mLp(FF:F2:9F:<*>:CF:0F:<*>:0D:<*>:E9:<*>:F0) mIp(<*>) mType(<*>)) as part of Service Action <*> 
+e1725,<*> <*> alignment exceptions 
+e1607,instruction cache parity error corrected 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e5455,<*> <*> point alignment exceptions 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e5455,<*> <*> point alignment exceptions 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e1725,<*> <*> alignment exceptions 
+e2468,data TLB error interrupt 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e1725,<*> <*> alignment exceptions 
+e2829,iar <*> dear <*> 
+e1269,ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_<*>_<*>/allreduce.rts: invalid or missing program image Exec format error 
+e4377,generating <*> 
+e1127,rts panic! - stopping execution 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e1768,program interrupt: <*> operation..<*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e5455,<*> <*> point alignment exceptions 
+e2105,ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///<*>.<*>.<*>-<*>.<*>.<*>) failed: No such file or directory 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2307,problem state (<*>=sup<*>=usr).......<*> 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e1482,ciod: Error loading <*> invalid or missing program image Permission denied 
+e2105,ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///<*>.<*>.<*>-<*>.<*>.<*>) failed: No such file or directory 
+e4377,generating <*> 
+e1425,ciod: <*> Detected the debugger died. 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e2829,iar <*> dear <*> 
+e2829,iar <*> dear <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e4377,generating <*> 
+e2325,CE sym <*> at <*> mask 0x<*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2468,data TLB error interrupt 
+e1146,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr* BglCtlPavTrace*) 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e5455,<*> <*> point alignment exceptions 
+e2829,iar <*> dear <*> 
+e2058,wait state enable.................<*> 
+e2468,data TLB error interrupt 
+e4377,generating <*> 
+e4377,generating <*> 
+e4377,generating <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e5455,<*> <*> point alignment exceptions 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e9096,exception syndrome register: 0x<*> 
+e2829,iar <*> dear <*> 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e4377,generating <*> 
+e2829,iar <*> dear <*> 
+e2775,ciod: Error loading <*> invalid or missing program image No such file or directory 
+e2829,iar <*> dear <*> 
+e4377,generating <*> 
+e1725,<*> <*> alignment exceptions 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2288,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr. 
+e1581,<*> <*> receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e3194,Lustre mount FAILED : <*> : <*> : <*> 
+e4377,generating <*> 
+e8164,<*> <*> interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts <*> microseconds max time in a critical input interrupt. 
+e2829,iar <*> dear <*> 
+e1725,<*> <*> alignment exceptions 
+e3322,ciod: LOGIN <*> failed: No such file or directory 
+e2846,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed 
