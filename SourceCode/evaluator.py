@@ -15,15 +15,16 @@ def evaluate_agreement(file_1, file_2):
 
     eventlist_1 = df_file1["EventTemplate"]
     eventlist_2 = df_file2["EventTemplate"]
+    maxLen = min(len(eventlist_1), len(eventlist_2))
 
     count = 0
-    for index in range(0, 4999, 1):
-        line_1 = eventlist_1[index + 5000]
+    for index in range(maxLen):
+        line_1 = eventlist_1[index]
         line_2 = eventlist_2[index]
-        if line_1.__eq__(line_2):
+        if line_1 == line_2:
             count = count + 1
 
-    agreement = count / 5000
+    agreement = count / maxLen
     return agreement
 
 
