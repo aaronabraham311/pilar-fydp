@@ -4,7 +4,7 @@
 
 Install [poetry](https://python-poetry.org/) and install dependencies using `poetry install`
 
-In order to run the template miner, run `poetry run python SourceCode/main.py` (This currently doesn't work due to missing data)
+In order to run the template miner, run `poetry run python SourceCode/main.py`. This will not work due to issues in the evaluation code. We have marked this as a future improvement.
 
 ## Linting and Formatting
 
